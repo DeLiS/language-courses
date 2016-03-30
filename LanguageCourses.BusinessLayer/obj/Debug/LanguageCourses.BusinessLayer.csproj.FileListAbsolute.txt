@@ -1,0 +1,7 @@
+C:\Users\Denis\documents\visual studio 2013\Projects\LanguageCourses\LanguageCourses.BusinessLayer\bin\Debug\LanguageCourses.BusinessLayer.dll
+C:\Users\Denis\documents\visual studio 2013\Projects\LanguageCourses\LanguageCourses.BusinessLayer\bin\Debug\LanguageCourses.BusinessLayer.pdb
+C:\Users\Denis\documents\visual studio 2013\Projects\LanguageCourses\LanguageCourses.BusinessLayer\obj\Debug\LanguageCourses.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Denis\documents\visual studio 2013\Projects\LanguageCourses\LanguageCourses.BusinessLayer\obj\Debug\LanguageCourses.BusinessLayer.dll
+C:\Users\Denis\documents\visual studio 2013\Projects\LanguageCourses\LanguageCourses.BusinessLayer\obj\Debug\LanguageCourses.BusinessLayer.pdb
+C:\Users\Denis\documents\visual studio 2013\Projects\LanguageCourses\LanguageCourses.BusinessLayer\bin\Debug\LanguageCourses.DataAccessLayer.dll
+C:\Users\Denis\documents\visual studio 2013\Projects\LanguageCourses\LanguageCourses.BusinessLayer\bin\Debug\LanguageCourses.DataAccessLayer.pdb

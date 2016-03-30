@@ -1,0 +1,15 @@
+C:\Users\Denis\documents\visual studio 2013\Projects\LanguageCourses\LanguageCources.Forms\obj\Debug\LanguageCourses.Forms.csprojResolveAssemblyReference.cache
+C:\Users\Denis\documents\visual studio 2013\Projects\LanguageCourses\LanguageCources.Forms\obj\Debug\LanguageCources.Forms.Properties.Resources.resources
+C:\Users\Denis\documents\visual studio 2013\Projects\LanguageCourses\LanguageCources.Forms\obj\Debug\LanguageCourses.Forms.csproj.GenerateResource.Cache
+C:\Users\Denis\documents\visual studio 2013\Projects\LanguageCourses\LanguageCources.Forms\bin\Debug\LanguageCources.Forms.exe.config
+C:\Users\Denis\documents\visual studio 2013\Projects\LanguageCourses\LanguageCources.Forms\bin\Debug\LanguageCources.Forms.exe
+C:\Users\Denis\documents\visual studio 2013\Projects\LanguageCourses\LanguageCources.Forms\bin\Debug\LanguageCources.Forms.pdb
+C:\Users\Denis\documents\visual studio 2013\Projects\LanguageCourses\LanguageCources.Forms\obj\Debug\LanguageCources.Forms.exe
+C:\Users\Denis\documents\visual studio 2013\Projects\LanguageCourses\LanguageCources.Forms\obj\Debug\LanguageCources.Forms.pdb
+C:\Users\Denis\documents\visual studio 2013\Projects\LanguageCourses\LanguageCources.Forms\bin\Debug\Data\LanguageCoursesDb.mdf
+C:\Users\Denis\documents\visual studio 2013\Projects\LanguageCourses\LanguageCources.Forms\bin\Debug\Data\LanguageCoursesDb_log.ldf
+C:\Users\Denis\documents\visual studio 2013\Projects\LanguageCourses\LanguageCources.Forms\obj\Debug\LanguageCourses.Forms.Forms.StudentsForm.resources
+C:\Users\Denis\documents\visual studio 2013\Projects\LanguageCourses\LanguageCources.Forms\bin\Debug\LanguageCourses.BusinessLayer.dll
+C:\Users\Denis\documents\visual studio 2013\Projects\LanguageCourses\LanguageCources.Forms\bin\Debug\LanguageCourses.DataAccessLayer.dll
+C:\Users\Denis\documents\visual studio 2013\Projects\LanguageCourses\LanguageCources.Forms\bin\Debug\LanguageCourses.BusinessLayer.pdb
+C:\Users\Denis\documents\visual studio 2013\Projects\LanguageCourses\LanguageCources.Forms\bin\Debug\LanguageCourses.DataAccessLayer.pdb
